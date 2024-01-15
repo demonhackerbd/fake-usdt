@@ -3,3 +3,4 @@ THIS SOFTWARE WORKS BY taking A TRANSACTION FROM BLOCKCHAIN NETWORK AND RETURNIN
 
 Telegram- https://t.me/cryptoTAB_Flash
 website : https://btcflashing.weebly.com
+Discord : https://discord.com/invite/XSqcyVqz
